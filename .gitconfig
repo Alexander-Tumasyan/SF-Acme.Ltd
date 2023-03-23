@@ -1,0 +1,10 @@
+[user]
+	email = a.s.tumasyan@gmail.com
+	name = Alexander Tumasyan
+[core]
+	longpaths = true
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+[alias]
+	history = log --graph
